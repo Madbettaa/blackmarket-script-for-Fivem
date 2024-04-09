@@ -8,7 +8,7 @@ client_scripts {
 }
 
 server_scripts {
-    '@np-lib/server/sv_main.lua',
+    'server/main.lua',
 }
 
 files {
